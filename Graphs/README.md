@@ -19,5 +19,10 @@ Another good source for all Graph Algorithms at one spot : <a href = "https://le
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/Graphs/maximal_network_rank.py"> Maximal Network Rank (Leetcode : 1615) </a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Graphs/find_critical_and_pseudo_critical_edges_in_minimum_spanning_tree.py"> Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree (Leetcode : 1489) </a>
+				</td>
+			</tr>
 		</tbody>
 </table>
