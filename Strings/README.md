@@ -1,4 +1,4 @@
-<a href="https://github.com/raqeebhamza"><a href="https://github.com/raqeebhamza"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://github.com/raqeebhamza/DSA/blob/main/Graphs/Strings/string_img.webp" width="600" height="250"/>
+<a href="https://github.com/raqeebhamza"><a href="https://github.com/raqeebhamza"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://github.com/raqeebhamza/DSA/blob/main/Strings/string_img.webp" width="600" height="250"/>
 
 # Strings : :triangular_flag_on_post:
 
@@ -10,7 +10,7 @@
 		<tbody>
 			<tr>
        			<td>
-					<a href="https://github.com/raqeebhamza/DSA/blob/main/String/repeated_substring_pattern.py"> Repeated Substring Pattern (Leetcode-459)</a>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Strings/repeated_substring_pattern.py"> Repeated Substring Pattern (Leetcode-459)</a>
 				</td>
 			</tr>
 		</tbody>
