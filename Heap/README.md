@@ -1,4 +1,4 @@
-<a href="https://github.com/raqeebhamza"><a href="https://github.com/raqeebhamza"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://github.com/raqeebhamza/DSA/blob/main/Heap/heap.pnd" width="600" height="250"/>
+<a href="https://github.com/raqeebhamza"><a href="https://github.com/raqeebhamza"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://github.com/raqeebhamza/DSA/blob/main/Heap/heap.png" width="600" height="250"/>
 
 # Heap : :triangular_flag_on_post:
 
