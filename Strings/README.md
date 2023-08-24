@@ -13,5 +13,10 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/Strings/repeated_substring_pattern.py"> Repeated Substring Pattern (Leetcode-459)</a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Strings/text_justification.py"> Text Justification (Leetcode-68)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
