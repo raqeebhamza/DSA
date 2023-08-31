@@ -14,5 +14,11 @@
  (Leetcode-2366)</a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Greedy/minimum_number_of_taps_to_open_to_water_a_garden.py"> Minimum Number of Taps to Open to Water a Garden
+ (Leetcode-1326)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
