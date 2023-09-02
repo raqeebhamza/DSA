@@ -18,5 +18,11 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/DP/frog_jump.py"> Frog Jump (Leetcode-403)</a>
 				</td>
 			</tr>
+						<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/DP/extra_characters_in_a_string.py"> Extra Characters in a String
+ (Leetcode-2707)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
