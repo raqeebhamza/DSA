@@ -10,12 +10,12 @@
 		<tbody>
 			<tr>
        			<td>
-					<a href="https://github.com/raqeebhamza/DSA/blob/main/DP/partition_list.py"> Partition List(Leetcode-97)</a>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Linked%20List/partition_list.py"> Partition List(Leetcode-97)</a>
 				</td>
 			</tr>
 			<tr>
        			<td>
-					<a href="https://github.com/raqeebhamza/DSA/blob/main/Lindked%20List/linked_list_cycle.py">Linked List Cycle (Leetcode-141)</a>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Linked%20List/linked_list_cycle.py">Linked List Cycle (Leetcode-141)</a>
 				</td>
 			</tr>
 		</tbody>
