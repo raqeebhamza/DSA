@@ -18,5 +18,11 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/Linked%20List/linked_list_cycle.py">Linked List Cycle (Leetcode-141)</a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Linked%20List/copy_list_with_random_pointer.py">Copy List with Random Pointer
+ (Leetcode-138)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
