@@ -29,5 +29,10 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/Linked%20List/split_linked_list_in_parts.py">Split Linked List in Parts (Leetcode-725)</a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Linked%20List/reverse_linked_list_II.py">Split Linked List in Parts (Leetcode-725)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
