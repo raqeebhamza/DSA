@@ -20,5 +20,16 @@
  (Leetcode-1326)</a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Greedy/minimum_deletions_to_make_character_frequencies_unique.py"> Minimum Deletions to Make Character Frequencies Unique
+ (Leetcode-1647)</a>
+				</td>
+			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Greedy/candy.py"> Candy(Leetcode-135)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
