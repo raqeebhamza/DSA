@@ -24,5 +24,10 @@ Another good source for all Graph Algorithms at one spot : <a href = "https://le
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/Graphs/find_critical_and_pseudo_critical_edges_in_minimum_spanning_tree.py"> Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree (Leetcode : 1489) </a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Graphs/reconstruct_itinerary.py">Reconstruct Itinerary (Leetcode-332)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
