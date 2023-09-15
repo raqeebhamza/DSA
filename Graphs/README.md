@@ -29,5 +29,10 @@ Another good source for all Graph Algorithms at one spot : <a href = "https://le
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/Graphs/reconstruct_itinerary.py">Reconstruct Itinerary (Leetcode-332)</a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Graphs/min-cost-to-connect-all-points.py"> Min Cost to Connect All Points(Leetcode-1584)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
