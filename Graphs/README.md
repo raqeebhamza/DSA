@@ -31,7 +31,12 @@ Another good source for all Graph Algorithms at one spot : <a href = "https://le
 			</tr>
 			<tr>
        			<td>
-					<a href="https://github.com/raqeebhamza/DSA/blob/main/Graphs/min-cost-to-connect-all-points.py"> Min Cost to Connect All Points(Leetcode-1584)</a>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Graphs/min_cost_to_connect_all_points.py"> Min Cost to Connect All Points(Leetcode-1584)</a>
+				</td>
+			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Graphs/shortest_path_visiting_all_nodes.py"> Shortest Path Visiting All Nodes (Leetcode-847)</a>
 				</td>
 			</tr>
 		</tbody>
