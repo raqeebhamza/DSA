@@ -23,5 +23,10 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/Arrays/group_the_people_given_the_group_size_they_belong_to.py">Group the People Given the Group Size They Belong To (Leetcode-1282)</a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Arrays/find_the_duplicate_number.py">Find the Duplicate Number (Leetcode-287)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
