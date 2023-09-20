@@ -13,5 +13,10 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/Arrays/Commulative%20Sum(prefix_sum)/minimum_penalty_for_a_shop.py"> Minimum Penalty for a Shop (Leetcode-2468)</a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Arrays/Commulative%20Sum(prefix_sum)/minimum_operations_to_reduce_x_to_zero.py"> Minimum Operations to Reduce X to Zero(Leetcode-165)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
