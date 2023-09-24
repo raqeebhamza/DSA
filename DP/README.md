@@ -29,5 +29,10 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/DP/unique_paths.py">Unique Paths (Leetcode-68)</a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/DP/champagne_tower.py">Champagne Tower(Leetcode-799)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>

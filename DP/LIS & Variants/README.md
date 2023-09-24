@@ -13,5 +13,10 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/DP/LIS%20%26%20Variants/maximum_length_of_pair_chain.py"> Maximum Length of Pair Chain (Leetcode - 646)</a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/DP/LIS%20%26%20Variants/longest_string_chain.py">Longest String Chain(Leetcode - 1048)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
