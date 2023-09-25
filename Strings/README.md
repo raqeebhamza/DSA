@@ -23,5 +23,10 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/Strings/is_subsequence.py">Is Subsequence (Leetcode-392)</a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Strings/find_the_difference.py"> Find the Difference (Leetcode-389)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
