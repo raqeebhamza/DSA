@@ -33,5 +33,10 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/Arrays/sort_array_by_parity.py">Sort Array By Parity (Leetcode-906)</a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Arrays/monotonic_arrays.py">Monotonic Array(Leetcode-896)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
