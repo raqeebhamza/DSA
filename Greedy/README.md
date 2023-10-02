@@ -31,5 +31,10 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/Greedy/candy.py"> Candy(Leetcode-135)</a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Greedy/remove_colored_pieces_if_both_neighbors_are_the_same_color.py"> Remove Colored Pieces if Both Neighbors are the Same color (Leetcode-2038)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
