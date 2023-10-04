@@ -13,5 +13,10 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/Design/implement_stack_using_queues.py"> Implement Stack using Queues (Leetcode-225)</a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Design/design_hashmap.py"> Design HashMap (Leetcode-706)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
