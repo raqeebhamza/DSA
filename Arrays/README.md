@@ -38,5 +38,15 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/Arrays/monotonic_arrays.py">Monotonic Array(Leetcode-896)</a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Arrays/majority_element_ii.py">Majority Element II(Leetcode-229)</a>
+				</td>
+			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Arrays/majority_element.py">Majority Element (Leetcode-169)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
