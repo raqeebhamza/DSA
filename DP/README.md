@@ -34,5 +34,10 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/DP/champagne_tower.py">Champagne Tower(Leetcode-799)</a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/DP/integer_break.py">Integer Break(Leetcode-343)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
