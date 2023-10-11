@@ -15,5 +15,10 @@ When to use what Binary Search - <a href = "https://leetcode.com/discuss/general
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/Arrays/Binary%20Search/the_k_weakest_rows_in_a_matrix.py">The K Weakest Rows in a Matrix (Leetcode-1337)</a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Arrays/Binary%20Search/number_of_flowers_in_full_bloom.py">Number of Flowers in Full Bloom (Leetcode-2251)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
