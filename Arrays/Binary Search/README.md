@@ -20,5 +20,10 @@ When to use what Binary Search - <a href = "https://leetcode.com/discuss/general
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/Arrays/Binary%20Search/number_of_flowers_in_full_bloom.py">Number of Flowers in Full Bloom (Leetcode-2251)</a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Arrays/Binary%20Search/find_in_mountain_array.py">Find in Mountain Array (Leetcode-1095)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
