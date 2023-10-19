@@ -13,8 +13,13 @@
 		</thead>
 		<tbody>
 			<tr>
-        			<td>
+        		<td>
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/Graphs/Topological%20Sort/sort_items_by_groups_respecting_dependencies.py"> Sort Items by Groups Respecting Dependencies (Leetcode-1203)</a>
+				</td>
+			</tr>
+			<tr>
+        		<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Graphs/Topological%20Sort/parallel_courses_iii.py"> Parallel Courses III(Leetcode-2050)</a>
 				</td>
 			</tr>
 		</tbody>

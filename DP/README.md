@@ -39,5 +39,21 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/DP/integer_break.py">Integer Break(Leetcode-343)</a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/DP/min_cost_climbing_stairs.py">Min Cost Climbing Stairs(Leetcode-746)</a>
+				</td>
+			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/DP/painting_the_walls.py"> Painting the Walls (Leetcode-2742)</a>
+				</td>
+			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/DP/number_of_ways_to_stay_in_the_same_place_after_some_steps.py"> Number of Ways to Stay in the Same Place After Some Steps (Leetcode-1269)</a>
+				</td>
+			</tr>
+			
 		</tbody>
 </table>

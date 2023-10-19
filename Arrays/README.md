@@ -53,5 +53,10 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/Arrays/minimum_number_of_operations_to_make_array_continuous.py">Minimum Number of Operations to Make Array Continuous (Leetcode-2009)</a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Arrays/pascals_triangle_ii.py">Pascal's Triangle II (Leetcode-119)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
