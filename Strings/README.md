@@ -33,5 +33,10 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/Strings/remove_duplicate_letters.py"> Remove Duplicate Letters (Leetcode-316)</a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Strings/backspace_string_compare.py"> Backspace String Compare (Leetcode-844)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
