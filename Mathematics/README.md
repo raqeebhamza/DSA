@@ -19,5 +19,10 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/Mathematics/count_all_valid_pickup_and_delivery_options.py">  Count All Valid Pickup and Delivery Options (Leetcode - 1359)</a>
 				</td>
 			</tr>
+			<tr>
+        		<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Mathematics/power_of_four.py">  Power of Four (Leetcode - 342)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
