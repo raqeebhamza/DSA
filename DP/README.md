@@ -54,6 +54,10 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/DP/number_of_ways_to_stay_in_the_same_place_after_some_steps.py"> Number of Ways to Stay in the Same Place After Some Steps (Leetcode-1269)</a>
 				</td>
 			</tr>
-			
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/DP/constrained_subsequence_sum.py"> Constrained Subsequence Sum (Leetcode-1425)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>

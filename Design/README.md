@@ -18,5 +18,10 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/Design/design_hashmap.py"> Design HashMap (Leetcode-706)</a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Design/flatten_nested_list_iterator.py">Flatten Nested List Iterator (Leetcode-341)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
