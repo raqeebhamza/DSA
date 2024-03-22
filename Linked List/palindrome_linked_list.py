@@ -59,6 +59,10 @@ class Solution:
             prev = prev.next
             slow = slow.next
         return True
+# ********************************************************************** Python ***************************************************************/
+# //Approach-2 (Recursion)
+# //T.C : O(n)
+# //S.C : O(1)
 class solutions:
     def isPalindrome(self, head: Optional[ListNode]) -> bool:
         def solve(node):
