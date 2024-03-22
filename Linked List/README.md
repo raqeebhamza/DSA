@@ -34,5 +34,10 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/Linked%20List/reverse_linked_list_II.py">Reverse Linked List II (Leetcode-92)</a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Linked%20List/palindrome_linked_list.py">Palindrome linked List (Leetcode-234)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
