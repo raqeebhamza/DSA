@@ -58,5 +58,11 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/Arrays/pascals_triangle_ii.py">Pascal's Triangle II (Leetcode-119)</a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Arrays/first_missing_positive.py"> First Missing Positive (Leetcode-41)</a>
+				</td>
+			</tr>
+			
 		</tbody>
 </table>
