@@ -3,8 +3,8 @@
 # Leetcode Link   : https://leetcode.com/problems/sliding-window-maximum/
 # Asked by        : Microsoft, Amazon, Google, Meta, Bloomberg
 
-#*****************************************************************************************
-#Brute force: O(n^2)
+#**************************************** Python *************************************************
+
 
 
 #Algo: Need to optimize, We can use monotonic increasing/decreasing queue
@@ -14,7 +14,9 @@
 #------ Then while nums[i] > queue[-1]: pop from end  and then then add after loop over
 #------ append the max from left most element of queue res.append(queue[0])
 
-#Time: O(n) Using monotonic decreasing deque
+# Approach  : Standard Sliding window Problem
+# T.C : O(n) Using monotonic decreasing deque
+# S.C : O(n)
 class Solution:
     def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
         queue = deque([])
