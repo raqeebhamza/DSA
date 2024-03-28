@@ -18,5 +18,10 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/Sliding%20Window/sliding_window_maximum.py"> Sliding Window Maximum (Leetcode-239)</a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Sliding%20Window/length_of_longest_subarray_with_at_most_k_frequency.py"> Length of Longest Subarray With at Most K Frequency (Leetcode-2958)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
