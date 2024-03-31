@@ -33,5 +33,10 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/Sliding%20Window/count_subarrays_with_fixed_bounds.py"> Count Subarrays With Fixed Bounds (Leetcode-2444)</a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Sliding%20Window/repeated_dna_sequences.py"> Repeated DNA Sequences (Leetcode-187)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
