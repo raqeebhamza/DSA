@@ -28,5 +28,10 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/Sliding%20Window/length_of_longest_subarray_with_at_most_k_frequency.py"> Count Subarrays Where Max Element Appears at Least K Times (Leetcode-2962)</a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Sliding%20Window/count_subarrays_with_fixed_bounds.py"> Count Subarrays With Fixed Bounds (Leetcode-2444)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
