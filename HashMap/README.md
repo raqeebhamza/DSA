@@ -13,5 +13,10 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/HashMap/number_of_good_pairs.py"> Number of Good Pairs (Leetcode-1512)</a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/HashMap/isomorphic_strings.py">  Isomorphic Strings (Leetcode-205)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
