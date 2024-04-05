@@ -38,5 +38,10 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/Strings/backspace_string_compare.py"> Backspace String Compare (Leetcode-844)</a>
 				</td>
 			</tr>
+			<tr>
+				<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Strings/make_the_string_great.py"> Make The String Great (Leetcode-1544)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>

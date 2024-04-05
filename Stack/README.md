@@ -14,5 +14,10 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/Stack/132_pattern.py"> 132 Pattern (Leetcode - 456)</a>
 				</td>
 			</tr>
+			<tr>
+        		<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Stack/maximum_nesting_depth_of_the_parentheses.py"> Maximum Nesting Depth of the Parentheses (Leetcode - 1614)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
