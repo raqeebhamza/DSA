@@ -6,8 +6,8 @@
 #     Leetcode Link : https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
 # 
 
-# **************************************************************************** C++ *********************************************************************
-# Approach-1 (Using Stack and set)
+# **************************************************************************** python *********************************************************************
+# Approach-1 (Iterate from front and eliminate and then iterate from back and eliminate)
 # T.C : O(n)
 # S.C : O(n)
 
