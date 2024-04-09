@@ -13,5 +13,10 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/Arrays/Simulation/number_of_students_unable_to_eat_lunch.py"> Number of Students Unable to Eat Lunch (Leetcode-1700)</a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Arrays/Simulation/time_needed_to_buy_tickets.py"> Time Needed to Buy Tickets (Leetcode-2073)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
