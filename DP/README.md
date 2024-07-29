@@ -64,5 +64,10 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/DP/freedom_trail.py"> Freedom Trail (Leetcode-514)</a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/DP/house_robber.py"> House Robber (Leetcode-198)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
