@@ -84,5 +84,10 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/DP/palindrom_substring.py"> Palindrom Substring (Leetcode-647)</a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/DP/decode_ways.py"> Decode Ways (Leetcode-91)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
