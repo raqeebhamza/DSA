@@ -1,0 +1,34 @@
+# ******************************************** Python ********************************************
+#Recusion memoization
+class Solution:
+    def coinChange(self, coins: List[int], amount: int) -> int:
+        dp = {}
+        def solve(amt):
+            if amt in dp:
+                return dp[amt]
+            if amt == 0:
+                return 0
+            if amt < 0:
+                return float("inf")
+            minCoins = float("inf")
+            for coin in coins:
+                res = solve(amt-coin)
+                if res != float("inf"):
+                    minCoins = min(minCoins, res+1)
+            dp[amt] = minCoins
+            return minCoins
+        res = solve(amount)
+        return -1 if res == float("inf") else res
+# ******************************************** Python ********************************************
+
+#Bottom up   
+class Solution:
+    def coinChange(self, coins: List[int], amount: int) -> int:
+        dp = [float("inf")]*(amount+1)
+        dp[0] = 0
+        for a in range(1, amount+1):
+           for coin in coins:
+                if a - coin >= 0:
+                    dp[a] = min(dp[a], dp[a - coin] + 1)
+        
+        return dp[amount] if dp[amount]!=float("inf") else -1

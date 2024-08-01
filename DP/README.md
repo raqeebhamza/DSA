@@ -89,5 +89,10 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/DP/decode_ways.py"> Decode Ways (Leetcode-91)</a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/DP/decode_ways.py"> Coin Change (Leetcode-322)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
