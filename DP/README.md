@@ -94,5 +94,15 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/DP/decode_ways.py"> Coin Change (Leetcode-322)</a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/DP/minimum_cost_for_tickets.py"> Minimum Cost for Tickets (Leetcode-2134)</a>
+				</td>
+			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/DP/maximum_product_subarray.py"> Minimum Cost for Tickets (Leetcode-2134)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
