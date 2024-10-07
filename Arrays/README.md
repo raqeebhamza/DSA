@@ -63,6 +63,10 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/Arrays/first_missing_positive.py"> First Missing Positive (Leetcode-41)</a>
 				</td>
 			</tr>
-			
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Arrays/find_pivot.py"> Find pivot(Leetcode-724)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
