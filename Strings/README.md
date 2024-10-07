@@ -48,5 +48,10 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/Strings/minimum_remove_to_make_valid_parentheses.py"> Minimum Remove to Make Valid Parentheses (Leetcode-1249)</a>
 				</td>
 			</tr>
+			<tr>
+				<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Strings/minimum_string_length_after_removing_substrings.py">Minimum String Length After Removing Substrings (Leetcode-2696)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
