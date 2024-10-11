@@ -68,5 +68,10 @@
 					<a href="https://github.com/raqeebhamza/DSA/blob/main/Arrays/find_pivot.py"> Find pivot(Leetcode-724)</a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/raqeebhamza/DSA/blob/main/Arrays/the_number_of_the_smallest_unoccupied_chair.py"> The Number of the Smallest Unoccupied Chair(Leetcode-1942)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
