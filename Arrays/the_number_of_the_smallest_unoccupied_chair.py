@@ -56,4 +56,4 @@ class Solution:
             
             heapq.heappush(occupied, (d, chair))
                 
-        return -
+        return -1
